@@ -1,0 +1,4 @@
+
+# ignore models artifacts
+models/
+processed_data/
